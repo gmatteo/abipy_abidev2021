@@ -38,3 +38,7 @@ div.output_stderr {
     background: black;
 }
 */
+
+.abinit_input {
+	font-size: 50% /*px, cm, in, etc.*/; 
+}
